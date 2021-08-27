@@ -7,3 +7,4 @@ For the next 100 days I will be posting commented Python code snippets to this r
  1. [Binding names to objects](day1.py)
  2. [Playing with different types](day2.py)
  3. [Operations with variables](day3.py)
+ 4. [Handling keyboard input](day4.py)
