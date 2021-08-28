@@ -18,7 +18,7 @@ print("The number is {}".format(variable))
 print("The number is %i" % variable)
 print("The number is %.2f" % variable)
 
-# Using f-strings (since Py 3.6)
+# Using f-strings (since Python 3.6)
 print(f"The number is {variable}")
 
 # Printing multiple objects
