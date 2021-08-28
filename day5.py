@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-print("This is a literal")
+print('This is a literal')
 print("This is another literal")
 print("""This is yet another literal!""")
 
