@@ -9,3 +9,4 @@ For the next 100 days I will be posting commented Python code snippets to this r
  3. [Operations with variables](day3.py)
  4. [Handling keyboard input](day4.py)
  5. [Printing things in many different ways](day5.py)
+ 6. [Simple if statement](day6.py)
