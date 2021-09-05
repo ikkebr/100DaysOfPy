@@ -21,5 +21,5 @@ even = range(0, 21, 2)  # generating all even integers between [0 and 20]
 print(list(even))  # [0, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20]
 
 # We can also do it backwards!
-decreasing_odd = range(20, -1, -2)
-print(list(decreasing_odd))  # [20, 18, 16, 14, 12, 10, 8, 6, 4, 2, 0]
+decreasing_even = range(20, -1, -2)
+print(list(decreasing_even))  # [20, 18, 16, 14, 12, 10, 8, 6, 4, 2, 0]
