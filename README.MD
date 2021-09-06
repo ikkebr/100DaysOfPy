@@ -17,3 +17,4 @@ For the next 100 days I will be posting commented Python code snippets to this r
  11. [Sets!](day11.py)
  12. [Loops: simple while loop](day12.py)
  13. [The range function](day13.py)
+ 14. [for statement](day14.py)
