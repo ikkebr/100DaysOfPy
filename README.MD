@@ -19,3 +19,4 @@ For the next 100 days I will be posting commented Python code snippets to this r
  13. [The range function](day13.py)
  14. [for statement](day14.py)
  15. [break and continue](day15.py)
+ 16. [List Comprehensions](day16.py)
