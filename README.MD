@@ -20,3 +20,4 @@ For the next 100 days I will be posting commented Python code snippets to this r
  14. [for statement](day14.py)
  15. [break and continue](day15.py)
  16. [List Comprehensions](day16.py)
+ 17. [Dictionary Comprehensions](day17.py)
