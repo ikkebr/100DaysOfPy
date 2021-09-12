@@ -23,3 +23,4 @@ For the next 100 days I will be posting commented Python code snippets to this r
  17. [Dictionary Comprehensions](day17.py)
  18. [Complex and imaginary numbers](day18.py)
  19. [functions](day19.py)
+ 20. [moar functions](day20.py)
