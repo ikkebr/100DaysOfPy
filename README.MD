@@ -24,3 +24,4 @@ For the next 100 days I will be posting commented Python code snippets to this r
  18. [Complex and imaginary numbers](day18.py)
  19. [functions](day19.py)
  20. [moar functions](day20.py)
+ 21. [Generators](day21.py)
