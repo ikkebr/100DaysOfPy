@@ -29,3 +29,4 @@ For the next 100 days I will be posting commented Python code snippets to this r
  23. [zip tricks](day23.py)
  24. [sorted](day24.py)
  25. [permutations and combinations](day25.py)
+ 26. [while ... else](day26.py)
