@@ -32,3 +32,4 @@ For the next 100 days I will be posting commented Python code snippets to this r
  26. [while ... else](day26.py)
  27. [for ... else](day27.py)
  28. [doctest](day28.py)
+ 29. [exceptions](day29.py)
