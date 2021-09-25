@@ -36,3 +36,4 @@ For the next 100 days I will be posting commented Python code snippets to this r
  30. [handling exceptions](day30.py)
  31. [more filter](day31.py)
  32. [working with files (the classic way)](day32.py)
+ 33. [working with file (the good way)](day33.py)
