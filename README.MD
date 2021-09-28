@@ -39,3 +39,4 @@ For the next 100 days I will be posting commented Python code snippets to this r
  33. [working with files (the good way)](day33.py)
  34. [try..except..finally](day34.py)
  35. [playing with recursive functions (anagrams)](day35.py)
+ 36. [decorators](day36.py)
