@@ -40,3 +40,4 @@ For the next 100 days I will be posting commented Python code snippets to this r
  34. [try..except..finally](day34.py)
  35. [playing with recursive functions (anagrams)](day35.py)
  36. [decorators](day36.py)
+ 37. [classes](day37.py)
