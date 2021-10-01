@@ -11,6 +11,7 @@ class Box(object):
         # we will increment the number of boxes by one
         Box._boxes += 1 
 
+    # we can use the @classmethod decorator to signal that the method is a class method
     @classmethod
     def how_many(cls):
         return cls._boxes
@@ -22,4 +23,5 @@ my_other_box = Box("My second box", capacity = 5)
 print(Box.how_many()) # 2
 
 third_box = Box("Third")
+# Any time we create an instance of a box, the number of Boxes grows by one.
 print(Box.how_many()) # 3

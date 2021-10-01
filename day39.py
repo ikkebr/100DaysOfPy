@@ -6,6 +6,9 @@ class Box(object):
         self.name = name
         self.storage = []
 
+    # an instance method is just like a regular python function
+    # it is declared inside a class block and takes the instance
+    # as the first argument (we call it self)
     def store(self, object):
         if len(self.storage) >= self.capacity:
             print("Storage is Full.")
