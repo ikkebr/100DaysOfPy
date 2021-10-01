@@ -42,3 +42,4 @@ For the next 100 days I will be posting commented Python code snippets to this r
  36. [decorators](day36.py)
  37. [classes](day37.py)
  38. [classmethods](day38.py)
+ 39. [classes with custom instance methods](day39.py)
