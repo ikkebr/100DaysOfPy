@@ -44,3 +44,4 @@ For the next 100 days I will be posting commented Python code snippets to this r
  38. [classmethods](day38.py)
  39. [classes with custom instance methods](day39.py)
  40. [simple inheritance](day40.py)
+ 41. [multiple inheritance](day41.py)
