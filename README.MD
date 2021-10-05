@@ -46,3 +46,4 @@ For the next 100 days I will be posting commented Python code snippets to this r
  40. [simple inheritance](day40.py)
  41. [multiple inheritance](day41.py)
  42. [private attributes?](day42.py)
+ 43. [getters and setters and property](day43.py)
