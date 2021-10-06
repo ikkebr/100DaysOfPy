@@ -47,3 +47,4 @@ For the next 100 days I will be posting commented Python code snippets to this r
  41. [multiple inheritance](day41.py)
  42. [private attributes?](day42.py)
  43. [getters and setters and property](day43.py)
+ 44. [dunder magic methods](day44.py)
