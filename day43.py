@@ -9,6 +9,7 @@ class Temperature(object):
 
     # we can use the built-in property decorator to achieve getters and setters behaviour
     # this will become the getter
+    # getters and setters can be very useful when you want to perform data validation!
     @property
     def temperature(self):
         return self._temperature
