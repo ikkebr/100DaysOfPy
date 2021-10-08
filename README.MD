@@ -50,3 +50,4 @@ For the next 100 days I will be posting commented Python code snippets to this r
  44. [dunder magic methods](day44.py)
  45. [iterators](day45.py)
  46. [with statement with classes](day46.py)
+ 47. [GraphQL with strawberry](day47.py)
