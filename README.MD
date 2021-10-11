@@ -52,3 +52,4 @@ For the next 100 days I will be posting commented Python code snippets to this r
  46. [with statement with classes](day46.py)
  47. [GraphQL with strawberry](day47.py)
  48. [monkey patching](day48.py)
+ 49. [non-recursive anagram checker](day49.py)
