@@ -54,3 +54,4 @@ For the next 100 days I will be posting commented Python code snippets to this r
  48. [monkey patching](day48.py)
  49. [non-recursive anagram checker](day49.py)
  50. [most common element](day50.py)
+ 51. [3-6-9 and clap!](day51.py)
