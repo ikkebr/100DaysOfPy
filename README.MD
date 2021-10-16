@@ -57,3 +57,4 @@ For the next 100 days I will be posting commented Python code snippets to this r
  51. [3-6-9 and clap!](day51.py)
  52. [Checking powers of two](day52.py)
  53. [base 3 to integer](day53.py)
+ 54. [number of bits](day54.py)
