@@ -59,3 +59,4 @@ For the next 100 days I will be posting commented Python code snippets to this r
  53. [base 3 to integer](day53.py)
  54. [number of bits](day54.py)
  55. [monotonic sequences](day55.py)
+ 56. [largest substring between 2= Characters](day56.py)
