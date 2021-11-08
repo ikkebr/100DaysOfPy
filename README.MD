@@ -61,3 +61,4 @@ For the next 100 days I will be posting commented Python code snippets to this r
  55. [monotonic sequences](day55.py)
  56. [largest substring between 2= Characters](day56.py)
  57. [reverse words in a string](day57.py)
+ 58. [k prefix](day58.py)
